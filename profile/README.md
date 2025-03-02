@@ -1,7 +1,3 @@
-## Hi there 👋
-## welcome to the-brothers organisation
-## you will find all related repos and project tasks here
-
 # SOEN390
 Mini Capstone Project
 |#|Name|ID|username|
@@ -19,6 +15,10 @@ Mini Capstone Project
 |11| Merouane Issad|40209533 |logithss |
 |12| Johnny Morcos|40172039 |Johnnyghub |
 
+
+
+
+
 ## links
 
 [Google Drive Link](https://drive.google.com/drive/folders/1UL6PJ-IIoOIFHoY5S4i67sVe1DtE99dF?usp=sharing)
@@ -30,3 +30,9 @@ Mini Capstone Project
 [When2Meet: General weekly (un)availabilities](https://www.when2meet.com/?28532537-3BhGM)
 
 [Figma UI mockups link](https://www.figma.com/design/fTTZ2zZodQatstIwAD9umn/SOEN-390-Mockups?node-id=0-1&p=f&t=d3mWkRT2RNe5vkSy-0)
+
+
+## Manifesto for Agile Software Development
+
+https://agilemanifesto.org/
+https://agilemanifesto.org/principles.html
